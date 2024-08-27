@@ -1,2 +1,4 @@
-# Axion-Like-Particles-Constraint
-Constraining parameters of Axion Like Particles using spectral energy distribution from active galactic nuclei
+# File Instruction
+Constraining parameters of Axion Like Particles using spectral energy distribution from active galactic nucle.
+
+The excel files are used to store data obtained from other paper or observations, which shall be uploaded into python file soon. They record the energy of photons received, the according flux, and standard deviation of flux. Data points from different observing groups are separated and clearly de-marked. For points whose original errorbars are either too short to be seen or non-existent due to observation issue, a 30% standard deviation is given manually. While changing the excel files on your own, please try to keep the three data array mentioned within column 5, 6, 7, as shown in the current format, otherwise you would have to adjust the code for importing these files. 
